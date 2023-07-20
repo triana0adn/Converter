@@ -44,7 +44,7 @@ Asegúrate de que tu sistema cumpla con los siguientes requisitos para garantiza
 [========]
 
 #### 2. Temperatura
-###### Se selecciona la temperara a convertir.
+###### Se selecciona la temperatura a convertir.
 
  ![](https://github.com/triana0adn/Converter/blob/main/2.JPG?raw=true)
   
